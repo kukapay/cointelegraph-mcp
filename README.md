@@ -1,6 +1,7 @@
 # Cointelegraph MCP Server
 
 An MCP server that provides real-time access to the latest news from Cointelegraph.
+[![smithery badge](https://smithery.ai/badge/@kukapay/cointelegraph-mcp)](https://smithery.ai/server/@kukapay/cointelegraph-mcp)
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -23,6 +24,16 @@ An MCP server that provides real-time access to the latest news from Cointelegra
 - Internet connection (to fetch RSS feeds)
 
 ## Installation
+
+### Installing via Smithery
+
+To install Cointelegraph News for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/cointelegraph-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/cointelegraph-mcp --client claude
+```
+
+### Manual Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -133,4 +144,3 @@ An MCP server that provides real-time access to the latest news from Cointelegra
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
