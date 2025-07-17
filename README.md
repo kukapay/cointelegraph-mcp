@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-cointelegraph-mcp-badge.png)](https://mseep.ai/app/kukapay-cointelegraph-mcp)
+
 # Cointelegraph MCP Server
 
 An MCP server that provides real-time access to the latest news from Cointelegraph.
