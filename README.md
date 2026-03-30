@@ -16,6 +16,10 @@ An MCP server that provides real-time access to the latest news from Cointelegra
 - **Caching**: Implements a 1-hour cache to reduce redundant RSS requests.
 - **Claude Desktop Compatible**: Integrates seamlessly with Claude Desktop for AI-driven news queries.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-cointelegraph-mcp).
+
 ## Prerequisites
 
 - Python 3.10 or higher
